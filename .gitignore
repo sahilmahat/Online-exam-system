@@ -1,0 +1,9 @@
+.env
+vendor/
+www/vendor/
+www/upload/*
+!www/upload/.gitkeep
+www/logs/*
+!www/logs/.gitkeep
+www/test.db
+tests/tmp/
